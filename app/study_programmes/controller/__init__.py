@@ -1,0 +1,1 @@
+from .study_programme_controllers import StudyProgrammeController

@@ -1,0 +1,1 @@
+from .faculty_controller import FacultyController

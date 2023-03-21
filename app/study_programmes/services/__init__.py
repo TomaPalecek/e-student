@@ -1,0 +1,2 @@
+from .study_programme_services import StudyProgrammeService
+from .years_of_study_services import YearOfStudyService

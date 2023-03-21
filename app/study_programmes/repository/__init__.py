@@ -1,0 +1,2 @@
+from .study_programmes_repository import StudyProgrammeRepository
+from .year_of_study_repository import YearOfStudyRepository

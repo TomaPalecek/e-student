@@ -1,0 +1,2 @@
+from .course_repository import CourseRepository
+from .course_specification_repository import CourseSpecificationRepository
